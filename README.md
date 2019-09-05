@@ -4,7 +4,7 @@ This module offers some additional endpoints for loading information through Gra
 ## Installation
 Use the following commands to install this module into Magento 2:
 
-    composer require magento2-additional-endpoints-graph-ql:@dev
+    composer require yireo/magento2-additional-endpoints-graph-ql:@dev
     bin/magento module:enable Yireo_AdditionalEndpointsGraphQl
     bin/magento setup:upgrade
 
